@@ -1,0 +1,36 @@
+{
+    "image": "https://ipfs.io/ipfs/QmXXXfAc6QE7J1ibFbGaiAvu9ofTqqqRPjQJv36ABLT6Xx/bbs-400.png",
+    "tokenId": 400,
+    "name": "Bitten By Splendor 400",
+    "description": "The rarity score for this item is: 4.227233458424332. The rarest trait is 'eye=attentive', which is shared by 98 others in the collection",
+    "attributes": [
+        {
+            "trait_type": "frame",
+            "value": "classy:platinum"
+        },
+        {
+            "trait_type": "head",
+            "value": "shaggy:green"
+        },
+        {
+            "trait_type": "eye",
+            "value": "attentive"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "clean"
+        },
+        {
+            "trait_type": "fang",
+            "value": "bloody"
+        },
+        {
+            "trait_type": "snout",
+            "value": "brown"
+        },
+        {
+            "trait_type": "hair",
+            "value": "tidy:green"
+        }
+    ]
+}

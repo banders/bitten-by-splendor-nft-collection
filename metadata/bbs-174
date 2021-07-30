@@ -1,0 +1,36 @@
+{
+    "image": "https://ipfs.io/ipfs/QmXXXfAc6QE7J1ibFbGaiAvu9ofTqqqRPjQJv36ABLT6Xx/bbs-174.png",
+    "tokenId": 174,
+    "name": "Bitten By Splendor 174",
+    "description": "The rarity score for this item is: 5.667748863070664. The rarest trait is 'head=groomed:baby-blue', which is shared by 39 others in the collection",
+    "attributes": [
+        {
+            "trait_type": "frame",
+            "value": "simple:silver"
+        },
+        {
+            "trait_type": "head",
+            "value": "groomed:baby-blue"
+        },
+        {
+            "trait_type": "eye",
+            "value": "attentive"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "clean"
+        },
+        {
+            "trait_type": "fang",
+            "value": "bloody"
+        },
+        {
+            "trait_type": "snout",
+            "value": "green"
+        },
+        {
+            "trait_type": "hair",
+            "value": "tidy:green"
+        }
+    ]
+}

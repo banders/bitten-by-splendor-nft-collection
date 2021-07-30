@@ -1,0 +1,36 @@
+{
+    "image": "https://ipfs.io/ipfs/QmXXXfAc6QE7J1ibFbGaiAvu9ofTqqqRPjQJv36ABLT6Xx/bbs-372.png",
+    "tokenId": 372,
+    "name": "Bitten By Splendor 372",
+    "description": "The rarity score for this item is: 4.389944176990404. The rarest trait is 'hair=spikes:purple', which is shared by 89 others in the collection",
+    "attributes": [
+        {
+            "trait_type": "frame",
+            "value": "classy:platinum"
+        },
+        {
+            "trait_type": "head",
+            "value": "shaggy:green"
+        },
+        {
+            "trait_type": "eye",
+            "value": "red"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "stained"
+        },
+        {
+            "trait_type": "fang",
+            "value": "bloody"
+        },
+        {
+            "trait_type": "snout",
+            "value": "green"
+        },
+        {
+            "trait_type": "hair",
+            "value": "spikes:purple"
+        }
+    ]
+}

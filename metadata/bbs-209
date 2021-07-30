@@ -1,0 +1,36 @@
+{
+    "image": "https://ipfs.io/ipfs/QmXXXfAc6QE7J1ibFbGaiAvu9ofTqqqRPjQJv36ABLT6Xx/bbs-209.png",
+    "tokenId": 209,
+    "name": "Bitten By Splendor 209",
+    "description": "The rarity score for this item is: 5.283848313329634. The rarest trait is 'eye=dark', which is shared by 40 others in the collection",
+    "attributes": [
+        {
+            "trait_type": "frame",
+            "value": "simple:silver"
+        },
+        {
+            "trait_type": "head",
+            "value": "groomed:green"
+        },
+        {
+            "trait_type": "eye",
+            "value": "dark"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "stained"
+        },
+        {
+            "trait_type": "fang",
+            "value": "white"
+        },
+        {
+            "trait_type": "snout",
+            "value": "green"
+        },
+        {
+            "trait_type": "hair",
+            "value": "tidy:green"
+        }
+    ]
+}

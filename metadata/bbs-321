@@ -1,0 +1,36 @@
+{
+    "image": "https://ipfs.io/ipfs/QmXXXfAc6QE7J1ibFbGaiAvu9ofTqqqRPjQJv36ABLT6Xx/bbs-321.png",
+    "tokenId": 321,
+    "name": "Bitten By Splendor 321",
+    "description": "The rarity score for this item is: 4.635899009615363. The rarest trait is 'head=shaggy:pink', which is shared by 51 others in the collection",
+    "attributes": [
+        {
+            "trait_type": "frame",
+            "value": "simple:silver"
+        },
+        {
+            "trait_type": "head",
+            "value": "shaggy:pink"
+        },
+        {
+            "trait_type": "eye",
+            "value": "green"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "stained"
+        },
+        {
+            "trait_type": "fang",
+            "value": "white"
+        },
+        {
+            "trait_type": "snout",
+            "value": "green"
+        },
+        {
+            "trait_type": "hair",
+            "value": "tidy:green"
+        }
+    ]
+}

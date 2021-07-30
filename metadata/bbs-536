@@ -1,0 +1,36 @@
+{
+    "image": "https://ipfs.io/ipfs/QmXXXfAc6QE7J1ibFbGaiAvu9ofTqqqRPjQJv36ABLT6Xx/bbs-536.png",
+    "tokenId": 536,
+    "name": "Bitten By Splendor 536",
+    "description": "The rarity score for this item is: 3.3605008772058595. The rarest trait is 'frame=fancy:gilded', which is shared by 107 others in the collection",
+    "attributes": [
+        {
+            "trait_type": "frame",
+            "value": "fancy:gilded"
+        },
+        {
+            "trait_type": "head",
+            "value": "groomed:green"
+        },
+        {
+            "trait_type": "eye",
+            "value": "green"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "clean"
+        },
+        {
+            "trait_type": "fang",
+            "value": "white"
+        },
+        {
+            "trait_type": "snout",
+            "value": "green"
+        },
+        {
+            "trait_type": "hair",
+            "value": "tidy:green"
+        }
+    ]
+}

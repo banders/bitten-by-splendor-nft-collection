@@ -1,0 +1,40 @@
+{
+    "image": "https://ipfs.io/ipfs/QmXXXfAc6QE7J1ibFbGaiAvu9ofTqqqRPjQJv36ABLT6Xx/bbs-2.png",
+    "tokenId": 2,
+    "name": "Bitten By Splendor 2",
+    "description": "The rarity score for this item is: 30.569476452641503. The rarest trait is 'breath=flame', which is shared by 3 others in the collection",
+    "attributes": [
+        {
+            "trait_type": "frame",
+            "value": "classy:platinum"
+        },
+        {
+            "trait_type": "head",
+            "value": "shaggy:pink"
+        },
+        {
+            "trait_type": "eye",
+            "value": "attentive"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "clean"
+        },
+        {
+            "trait_type": "fang",
+            "value": "white"
+        },
+        {
+            "trait_type": "snout",
+            "value": "green"
+        },
+        {
+            "trait_type": "breath",
+            "value": "flame"
+        },
+        {
+            "trait_type": "hair",
+            "value": "spikes:purple"
+        }
+    ]
+}

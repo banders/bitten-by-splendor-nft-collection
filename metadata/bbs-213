@@ -1,0 +1,36 @@
+{
+    "image": "https://ipfs.io/ipfs/QmXXXfAc6QE7J1ibFbGaiAvu9ofTqqqRPjQJv36ABLT6Xx/bbs-213.png",
+    "tokenId": 213,
+    "name": "Bitten By Splendor 213",
+    "description": "The rarity score for this item is: 5.274795336954866. The rarest trait is 'head=shaggy:albino', which is shared by 49 others in the collection",
+    "attributes": [
+        {
+            "trait_type": "frame",
+            "value": "elaborate:solid-gold"
+        },
+        {
+            "trait_type": "head",
+            "value": "shaggy:albino"
+        },
+        {
+            "trait_type": "eye",
+            "value": "green"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "clean"
+        },
+        {
+            "trait_type": "fang",
+            "value": "white"
+        },
+        {
+            "trait_type": "snout",
+            "value": "green"
+        },
+        {
+            "trait_type": "hair",
+            "value": "tidy:green"
+        }
+    ]
+}

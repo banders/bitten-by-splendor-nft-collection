@@ -1,0 +1,36 @@
+{
+    "image": "https://ipfs.io/ipfs/QmXXXfAc6QE7J1ibFbGaiAvu9ofTqqqRPjQJv36ABLT6Xx/bbs-581.png",
+    "tokenId": 581,
+    "name": "Bitten By Splendor 581",
+    "description": "The rarity score for this item is: 2.713249964088737. The rarest trait is 'eye=green', which is shared by 143 others in the collection",
+    "attributes": [
+        {
+            "trait_type": "frame",
+            "value": "simple:wood"
+        },
+        {
+            "trait_type": "head",
+            "value": "shaggy:green"
+        },
+        {
+            "trait_type": "eye",
+            "value": "green"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "clean"
+        },
+        {
+            "trait_type": "fang",
+            "value": "white"
+        },
+        {
+            "trait_type": "snout",
+            "value": "green"
+        },
+        {
+            "trait_type": "hair",
+            "value": "tidy:green"
+        }
+    ]
+}

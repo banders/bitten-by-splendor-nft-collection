@@ -1,0 +1,40 @@
+{
+    "image": "https://ipfs.io/ipfs/QmXXXfAc6QE7J1ibFbGaiAvu9ofTqqqRPjQJv36ABLT6Xx/bbs-205.png",
+    "tokenId": 205,
+    "name": "Bitten By Splendor 205",
+    "description": "The rarity score for this item is: 5.324504718658897. The rarest trait is 'fumes=snoring', which is shared by 53 others in the collection",
+    "attributes": [
+        {
+            "trait_type": "frame",
+            "value": "classy:platinum"
+        },
+        {
+            "trait_type": "head",
+            "value": "groomed:green"
+        },
+        {
+            "trait_type": "eye",
+            "value": "red"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "clean"
+        },
+        {
+            "trait_type": "fang",
+            "value": "bloody"
+        },
+        {
+            "trait_type": "snout",
+            "value": "green"
+        },
+        {
+            "trait_type": "fumes",
+            "value": "snoring"
+        },
+        {
+            "trait_type": "hair",
+            "value": "tidy:green"
+        }
+    ]
+}

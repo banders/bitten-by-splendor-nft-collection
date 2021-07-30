@@ -1,0 +1,36 @@
+{
+    "image": "https://ipfs.io/ipfs/QmXXXfAc6QE7J1ibFbGaiAvu9ofTqqqRPjQJv36ABLT6Xx/bbs-102.png",
+    "tokenId": 102,
+    "name": "Bitten By Splendor 102",
+    "description": "The rarity score for this item is: 6.469893085816754. The rarest trait is 'hair=wild:orange', which is shared by 43 others in the collection",
+    "attributes": [
+        {
+            "trait_type": "frame",
+            "value": "classy:platinum"
+        },
+        {
+            "trait_type": "head",
+            "value": "shaggy:dark-green"
+        },
+        {
+            "trait_type": "eye",
+            "value": "green"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "clean"
+        },
+        {
+            "trait_type": "fang",
+            "value": "white"
+        },
+        {
+            "trait_type": "snout",
+            "value": "brown"
+        },
+        {
+            "trait_type": "hair",
+            "value": "wild:orange"
+        }
+    ]
+}

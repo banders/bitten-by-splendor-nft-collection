@@ -1,0 +1,36 @@
+{
+    "image": "https://ipfs.io/ipfs/QmXXXfAc6QE7J1ibFbGaiAvu9ofTqqqRPjQJv36ABLT6Xx/bbs-99.png",
+    "tokenId": 99,
+    "name": "Bitten By Splendor 99",
+    "description": "The rarity score for this item is: 6.504817230769863. The rarest trait is 'eye=money', which is shared by 28 others in the collection",
+    "attributes": [
+        {
+            "trait_type": "frame",
+            "value": "elaborate:solid-gold"
+        },
+        {
+            "trait_type": "head",
+            "value": "shaggy:green"
+        },
+        {
+            "trait_type": "eye",
+            "value": "money"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "clean"
+        },
+        {
+            "trait_type": "fang",
+            "value": "white"
+        },
+        {
+            "trait_type": "snout",
+            "value": "green"
+        },
+        {
+            "trait_type": "hair",
+            "value": "tidy:green"
+        }
+    ]
+}

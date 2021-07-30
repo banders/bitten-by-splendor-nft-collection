@@ -1,0 +1,40 @@
+{
+    "image": "https://ipfs.io/ipfs/QmXXXfAc6QE7J1ibFbGaiAvu9ofTqqqRPjQJv36ABLT6Xx/bbs-349.png",
+    "tokenId": 349,
+    "name": "Bitten By Splendor 349",
+    "description": "The rarity score for this item is: 4.514531890459337. The rarest trait is 'fumes=vapor', which is shared by 85 others in the collection",
+    "attributes": [
+        {
+            "trait_type": "frame",
+            "value": "simple:silver"
+        },
+        {
+            "trait_type": "head",
+            "value": "groomed:green"
+        },
+        {
+            "trait_type": "eye",
+            "value": "red"
+        },
+        {
+            "trait_type": "teeth",
+            "value": "clean"
+        },
+        {
+            "trait_type": "fang",
+            "value": "bloody"
+        },
+        {
+            "trait_type": "snout",
+            "value": "green"
+        },
+        {
+            "trait_type": "fumes",
+            "value": "vapor"
+        },
+        {
+            "trait_type": "hair",
+            "value": "tidy:green"
+        }
+    ]
+}
